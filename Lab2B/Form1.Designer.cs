@@ -48,7 +48,6 @@
             this.ClientVisits = new System.Windows.Forms.GroupBox();
             this.textBoxClient = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
             this.calculate = new System.Windows.Forms.Button();
             this.clear = new System.Windows.Forms.Button();
             this.exit = new System.Windows.Forms.Button();
@@ -231,12 +230,6 @@
             resources.ApplyResources(this.label3, "label3");
             this.label3.Name = "label3";
             // 
-            // label1
-            // 
-            resources.ApplyResources(this.label1, "label1");
-            this.label1.Name = "label1";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
             // calculate
             // 
             this.calculate.AccessibleRole = System.Windows.Forms.AccessibleRole.Cursor;
@@ -245,8 +238,9 @@
             this.calculate.Cursor = System.Windows.Forms.Cursors.Hand;
             this.calculate.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.calculate.FlatAppearance.BorderSize = 2;
+            this.calculate.FlatAppearance.CheckedBackColor = System.Drawing.Color.Black;
             this.calculate.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
-            this.calculate.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.calculate.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             this.calculate.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.calculate.Name = "calculate";
             this.calculate.UseVisualStyleBackColor = false;
@@ -259,8 +253,9 @@
             this.clear.Cursor = System.Windows.Forms.Cursors.Hand;
             this.clear.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.clear.FlatAppearance.BorderSize = 2;
+            this.clear.FlatAppearance.CheckedBackColor = System.Drawing.Color.Black;
             this.clear.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
-            this.clear.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.clear.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             resources.ApplyResources(this.clear, "clear");
             this.clear.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.clear.Name = "clear";
@@ -274,8 +269,9 @@
             this.exit.Cursor = System.Windows.Forms.Cursors.Hand;
             this.exit.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.exit.FlatAppearance.BorderSize = 2;
+            this.exit.FlatAppearance.CheckedBackColor = System.Drawing.Color.Black;
             this.exit.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DarkGray;
-            this.exit.FlatAppearance.MouseOverBackColor = System.Drawing.Color.White;
+            this.exit.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DarkGray;
             resources.ApplyResources(this.exit, "exit");
             this.exit.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.exit.Name = "exit";
@@ -303,7 +299,6 @@
             this.Controls.Add(this.totalprice);
             this.Controls.Add(this.ClientType);
             this.Controls.Add(this.exit);
-            this.Controls.Add(this.label1);
             this.Controls.Add(this.ClientVisits);
             this.Controls.Add(this.Services);
             this.Controls.Add(this.Hairdresser);
@@ -332,7 +327,6 @@
         private System.Windows.Forms.GroupBox Services;
         private System.Windows.Forms.GroupBox ClientType;
         private System.Windows.Forms.GroupBox ClientVisits;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button calculate;
         private System.Windows.Forms.Button clear;
         private System.Windows.Forms.Button exit;

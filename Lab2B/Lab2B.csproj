@@ -80,10 +80,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="annie-spratt-6a3nqQ1YwBw-unsplash.jpg" />
-    <Content Include="annie-spratt-yI3weKNBRTc-unsplash.jpg" />
-    <Content Include="logo.png" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

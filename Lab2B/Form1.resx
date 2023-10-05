@@ -307,7 +307,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;Hairdresser.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>7</value>
   </data>
   <data name="Services.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>None</value>
@@ -463,7 +463,28 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;Services.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>6</value>
+  </data>
+  <data name="radioSenior.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioSenior.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="radioSenior.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 155</value>
+  </data>
+  <data name="radioSenior.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="radioSenior.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 26</value>
+  </data>
+  <data name="radioSenior.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="radioSenior.Text" xml:space="preserve">
+    <value>Senior (over 65)</value>
   </data>
   <data name="&gt;&gt;radioSenior.Name" xml:space="preserve">
     <value>radioSenior</value>
@@ -477,6 +498,27 @@
   <data name="&gt;&gt;radioSenior.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <data name="radioStudent.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioStudent.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="radioStudent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 117</value>
+  </data>
+  <data name="radioStudent.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="radioStudent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 26</value>
+  </data>
+  <data name="radioStudent.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="radioStudent.Text" xml:space="preserve">
+    <value>Student</value>
+  </data>
   <data name="&gt;&gt;radioStudent.Name" xml:space="preserve">
     <value>radioStudent</value>
   </data>
@@ -489,6 +531,27 @@
   <data name="&gt;&gt;radioStudent.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="radioChild.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioChild.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="radioChild.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 78</value>
+  </data>
+  <data name="radioChild.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="radioChild.Size" type="System.Drawing.Size, System.Drawing">
+    <value>203, 26</value>
+  </data>
+  <data name="radioChild.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="radioChild.Text" xml:space="preserve">
+    <value>Child (12 and under)</value>
+  </data>
   <data name="&gt;&gt;radioChild.Name" xml:space="preserve">
     <value>radioChild</value>
   </data>
@@ -500,6 +563,27 @@
   </data>
   <data name="&gt;&gt;radioChild.ZOrder" xml:space="preserve">
     <value>2</value>
+  </data>
+  <data name="radioStandard.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="radioStandard.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="radioStandard.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 37</value>
+  </data>
+  <data name="radioStandard.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="radioStandard.Size" type="System.Drawing.Size, System.Drawing">
+    <value>155, 26</value>
+  </data>
+  <data name="radioStandard.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="radioStandard.Text" xml:space="preserve">
+    <value>Standard Adult</value>
   </data>
   <data name="&gt;&gt;radioStandard.Name" xml:space="preserve">
     <value>radioStandard</value>
@@ -544,129 +628,6 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;ClientType.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="radioSenior.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="radioSenior.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 155</value>
-  </data>
-  <data name="radioSenior.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="radioSenior.Size" type="System.Drawing.Size, System.Drawing">
-    <value>165, 26</value>
-  </data>
-  <data name="radioSenior.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="radioSenior.Text" xml:space="preserve">
-    <value>Senior (over 65)</value>
-  </data>
-  <data name="&gt;&gt;radioSenior.Name" xml:space="preserve">
-    <value>radioSenior</value>
-  </data>
-  <data name="&gt;&gt;radioSenior.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioSenior.Parent" xml:space="preserve">
-    <value>ClientType</value>
-  </data>
-  <data name="&gt;&gt;radioSenior.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="radioStudent.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="radioStudent.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 117</value>
-  </data>
-  <data name="radioStudent.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="radioStudent.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 26</value>
-  </data>
-  <data name="radioStudent.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="radioStudent.Text" xml:space="preserve">
-    <value>Student</value>
-  </data>
-  <data name="&gt;&gt;radioStudent.Name" xml:space="preserve">
-    <value>radioStudent</value>
-  </data>
-  <data name="&gt;&gt;radioStudent.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioStudent.Parent" xml:space="preserve">
-    <value>ClientType</value>
-  </data>
-  <data name="&gt;&gt;radioStudent.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="radioChild.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="radioChild.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="radioChild.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 78</value>
-  </data>
-  <data name="radioChild.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="radioChild.Size" type="System.Drawing.Size, System.Drawing">
-    <value>203, 26</value>
-  </data>
-  <data name="radioChild.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="radioChild.Text" xml:space="preserve">
-    <value>Child (12 and under)</value>
-  </data>
-  <data name="&gt;&gt;radioChild.Name" xml:space="preserve">
-    <value>radioChild</value>
-  </data>
-  <data name="&gt;&gt;radioChild.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioChild.Parent" xml:space="preserve">
-    <value>ClientType</value>
-  </data>
-  <data name="&gt;&gt;radioChild.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="radioStandard.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="radioStandard.Location" type="System.Drawing.Point, System.Drawing">
-    <value>5, 37</value>
-  </data>
-  <data name="radioStandard.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="radioStandard.Size" type="System.Drawing.Size, System.Drawing">
-    <value>155, 26</value>
-  </data>
-  <data name="radioStandard.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="radioStandard.Text" xml:space="preserve">
-    <value>Standard Adult</value>
-  </data>
-  <data name="&gt;&gt;radioStandard.Name" xml:space="preserve">
-    <value>radioStandard</value>
-  </data>
-  <data name="&gt;&gt;radioStandard.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;radioStandard.Parent" xml:space="preserve">
-    <value>ClientType</value>
-  </data>
-  <data name="&gt;&gt;radioStandard.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
   <data name="ClientVisits.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
@@ -767,40 +728,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;ClientVisits.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>165, 494</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>44, 16</value>
-  </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
   <data name="calculate.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>
   </data>
   <data name="calculate.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Popup</value>
+    <value>Flat</value>
   </data>
   <data name="calculate.Font" type="System.Drawing.Font, System.Drawing">
     <value>Yu Gothic, 10.2pt, style=Bold</value>
@@ -809,13 +743,13 @@
     <value>NoControl</value>
   </data>
   <data name="calculate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 696</value>
+    <value>35, 686</value>
   </data>
   <data name="calculate.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
   </data>
   <data name="calculate.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 34</value>
+    <value>138, 44</value>
   </data>
   <data name="calculate.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -836,7 +770,7 @@
     <value>1</value>
   </data>
   <data name="clear.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Popup</value>
+    <value>Flat</value>
   </data>
   <data name="clear.Font" type="System.Drawing.Font, System.Drawing">
     <value>Yu Gothic, 10.2pt, style=Bold</value>
@@ -845,13 +779,13 @@
     <value>NoControl</value>
   </data>
   <data name="clear.Location" type="System.Drawing.Point, System.Drawing">
-    <value>215, 696</value>
+    <value>221, 686</value>
   </data>
   <data name="clear.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="clear.Size" type="System.Drawing.Size, System.Drawing">
-    <value>123, 34</value>
+    <value>128, 44</value>
   </data>
   <data name="clear.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -869,10 +803,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;clear.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>8</value>
   </data>
   <data name="exit.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Popup</value>
+    <value>Flat</value>
   </data>
   <data name="exit.Font" type="System.Drawing.Font, System.Drawing">
     <value>Yu Gothic, 10.2pt, style=Bold</value>
@@ -881,13 +815,13 @@
     <value>NoControl</value>
   </data>
   <data name="exit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>394, 696</value>
+    <value>394, 686</value>
   </data>
   <data name="exit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="exit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 34</value>
+    <value>136, 44</value>
   </data>
   <data name="exit.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
