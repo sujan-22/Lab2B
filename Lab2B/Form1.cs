@@ -182,5 +182,10 @@ namespace Lab2B
         {
 
         }
+
+        private void textBoxClient_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

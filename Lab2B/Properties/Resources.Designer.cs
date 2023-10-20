@@ -59,15 +59,5 @@ namespace Lab2B.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap annie_spratt_yI3weKNBRTc_unsplash {
-            get {
-                object obj = ResourceManager.GetObject("annie-spratt-yI3weKNBRTc-unsplash", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

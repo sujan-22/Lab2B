@@ -224,6 +224,7 @@
             this.textBoxClient.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             resources.ApplyResources(this.textBoxClient, "textBoxClient");
             this.textBoxClient.Name = "textBoxClient";
+            this.textBoxClient.TextChanged += new System.EventHandler(this.textBoxClient_TextChanged);
             // 
             // label3
             // 

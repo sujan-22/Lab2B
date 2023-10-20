@@ -312,6 +312,87 @@
   <data name="Services.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>None</value>
   </data>
+  <data name="&gt;&gt;checkExtensions.Name" xml:space="preserve">
+    <value>checkExtensions</value>
+  </data>
+  <data name="&gt;&gt;checkExtensions.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkExtensions.Parent" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="&gt;&gt;checkExtensions.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;checkHighlights.Name" xml:space="preserve">
+    <value>checkHighlights</value>
+  </data>
+  <data name="&gt;&gt;checkHighlights.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkHighlights.Parent" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="&gt;&gt;checkHighlights.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;checkColour.Name" xml:space="preserve">
+    <value>checkColour</value>
+  </data>
+  <data name="&gt;&gt;checkColour.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkColour.Parent" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="&gt;&gt;checkColour.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;checkCut.Name" xml:space="preserve">
+    <value>checkCut</value>
+  </data>
+  <data name="&gt;&gt;checkCut.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkCut.Parent" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="&gt;&gt;checkCut.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Services.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic, 10.2pt, style=Bold</value>
+  </data>
+  <data name="Services.Location" type="System.Drawing.Point, System.Drawing">
+    <value>312, 37</value>
+  </data>
+  <data name="Services.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Services.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="Services.Size" type="System.Drawing.Size, System.Drawing">
+    <value>252, 204</value>
+  </data>
+  <data name="Services.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Services.Text" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="&gt;&gt;Services.Name" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="&gt;&gt;Services.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Services.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Services.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
   <data name="checkExtensions.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -432,38 +513,86 @@
   <data name="&gt;&gt;checkCut.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="Services.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Yu Gothic, 10.2pt, style=Bold</value>
+  <data name="&gt;&gt;radioSenior.Name" xml:space="preserve">
+    <value>radioSenior</value>
   </data>
-  <data name="Services.Location" type="System.Drawing.Point, System.Drawing">
-    <value>312, 37</value>
+  <data name="&gt;&gt;radioSenior.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Services.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+  <data name="&gt;&gt;radioSenior.Parent" xml:space="preserve">
+    <value>ClientType</value>
   </data>
-  <data name="Services.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+  <data name="&gt;&gt;radioSenior.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="Services.Size" type="System.Drawing.Size, System.Drawing">
-    <value>252, 204</value>
+  <data name="&gt;&gt;radioStudent.Name" xml:space="preserve">
+    <value>radioStudent</value>
   </data>
-  <data name="Services.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;radioStudent.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioStudent.Parent" xml:space="preserve">
+    <value>ClientType</value>
+  </data>
+  <data name="&gt;&gt;radioStudent.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="Services.Text" xml:space="preserve">
-    <value>Services</value>
+  <data name="&gt;&gt;radioChild.Name" xml:space="preserve">
+    <value>radioChild</value>
   </data>
-  <data name="&gt;&gt;Services.Name" xml:space="preserve">
-    <value>Services</value>
+  <data name="&gt;&gt;radioChild.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Services.Type" xml:space="preserve">
+  <data name="&gt;&gt;radioChild.Parent" xml:space="preserve">
+    <value>ClientType</value>
+  </data>
+  <data name="&gt;&gt;radioChild.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;radioStandard.Name" xml:space="preserve">
+    <value>radioStandard</value>
+  </data>
+  <data name="&gt;&gt;radioStandard.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;radioStandard.Parent" xml:space="preserve">
+    <value>ClientType</value>
+  </data>
+  <data name="&gt;&gt;radioStandard.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ClientType.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic, 10.2pt, style=Bold</value>
+  </data>
+  <data name="ClientType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 327</value>
+  </data>
+  <data name="ClientType.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="ClientType.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="ClientType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>239, 208</value>
+  </data>
+  <data name="ClientType.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="ClientType.Text" xml:space="preserve">
+    <value>Client Type</value>
+  </data>
+  <data name="&gt;&gt;ClientType.Name" xml:space="preserve">
+    <value>ClientType</value>
+  </data>
+  <data name="&gt;&gt;ClientType.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Services.Parent" xml:space="preserve">
+  <data name="&gt;&gt;ClientType.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;Services.ZOrder" xml:space="preserve">
-    <value>6</value>
+  <data name="&gt;&gt;ClientType.ZOrder" xml:space="preserve">
+    <value>3</value>
   </data>
   <data name="radioSenior.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -597,41 +726,65 @@
   <data name="&gt;&gt;radioStandard.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="ClientType.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Yu Gothic, 10.2pt, style=Bold</value>
-  </data>
-  <data name="ClientType.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 327</value>
-  </data>
-  <data name="ClientType.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="ClientType.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="ClientType.Size" type="System.Drawing.Size, System.Drawing">
-    <value>239, 208</value>
-  </data>
-  <data name="ClientType.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="ClientType.Text" xml:space="preserve">
-    <value>Client Type</value>
-  </data>
-  <data name="&gt;&gt;ClientType.Name" xml:space="preserve">
-    <value>ClientType</value>
-  </data>
-  <data name="&gt;&gt;ClientType.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ClientType.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;ClientType.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
   <data name="ClientVisits.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>None</value>
+  </data>
+  <data name="&gt;&gt;textBoxClient.Name" xml:space="preserve">
+    <value>textBoxClient</value>
+  </data>
+  <data name="&gt;&gt;textBoxClient.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxClient.Parent" xml:space="preserve">
+    <value>ClientVisits</value>
+  </data>
+  <data name="&gt;&gt;textBoxClient.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>ClientVisits</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="ClientVisits.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic, 10.2pt, style=Bold</value>
+  </data>
+  <data name="ClientVisits.Location" type="System.Drawing.Point, System.Drawing">
+    <value>312, 327</value>
+  </data>
+  <data name="ClientVisits.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="ClientVisits.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="ClientVisits.Size" type="System.Drawing.Size, System.Drawing">
+    <value>252, 148</value>
+  </data>
+  <data name="ClientVisits.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="ClientVisits.Text" xml:space="preserve">
+    <value>Client Visits</value>
+  </data>
+  <data name="&gt;&gt;ClientVisits.Name" xml:space="preserve">
+    <value>ClientVisits</value>
+  </data>
+  <data name="&gt;&gt;ClientVisits.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ClientVisits.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ClientVisits.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="textBoxClient.Location" type="System.Drawing.Point, System.Drawing">
     <value>10, 81</value>
@@ -696,39 +849,6 @@
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>1</value>
-  </data>
-  <data name="ClientVisits.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Yu Gothic, 10.2pt, style=Bold</value>
-  </data>
-  <data name="ClientVisits.Location" type="System.Drawing.Point, System.Drawing">
-    <value>312, 327</value>
-  </data>
-  <data name="ClientVisits.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="ClientVisits.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
-  </data>
-  <data name="ClientVisits.Size" type="System.Drawing.Size, System.Drawing">
-    <value>252, 148</value>
-  </data>
-  <data name="ClientVisits.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="ClientVisits.Text" xml:space="preserve">
-    <value>Client Visits</value>
-  </data>
-  <data name="&gt;&gt;ClientVisits.Name" xml:space="preserve">
-    <value>ClientVisits</value>
-  </data>
-  <data name="&gt;&gt;ClientVisits.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;ClientVisits.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;ClientVisits.ZOrder" xml:space="preserve">
-    <value>5</value>
   </data>
   <data name="calculate.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>
